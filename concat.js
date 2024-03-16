@@ -16,11 +16,16 @@ console.log(coresAlfabética);
 
 //ex. 02
 
-//
-let meninos = ['kevin', 'anna'];
+//let par1 se refere a um par de dança
+let par1 = ['kevin', 'anna'];
 
-let meninas = ['lucas', 'carine'];
+//let par2 se refere a um outro par de dança
+let par2 = ['lucas', 'carine'];
 
-let paresDança = meninos.concat(meninas);
+//essa let é para untarmos todas as duplas em um array só
+let paresDança = par1.concat(par2);
 
+//exibimos os pares
 console.log(paresDança);
+
+//É utilizado para mesclar dois ou mais arrays. Esse método não altera os arrays existentes, ele só mescla todos os arrays em um só.
