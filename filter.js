@@ -6,8 +6,8 @@
 let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 //o que está dentro do parenteses é uma função da qual quero que o filter execute.
-//a let numeros está sendo filtrada somente com os números ímpares, numeros.filter((aqui está a let números) aqui está a função que o filter vai fazer) <======tudo isso para entender melhor ao ler o código.
-//declarei uma let para filtrar a let números, somente com os ímpares.
+//a let impares está filtrando a let numeros, e pegando somente os números ímpares da sequência, numeros.filter((aqui está a let números) aqui está a função que o filter vai fazer) <======tudo isso para entender melhor ao ler o código.
+//declarei uma let para filtrar a let números, somente os ímpares.
 // (=>) indica que é uma função.
 //resto da div de numeros por 2, se for diferente de 0, ele faz parte da let impares, senão, ele não passa no filtro e não será exibido.
 let impares = numeros.filter((numeros) => numeros % 2 != 0);
