@@ -1,8 +1,8 @@
 //includes
 
-//ex.01
+//ex. 01
 
-//checar convidados
+//checar convidados.
 
 //listaConvidados se refere aos convidados de uma festa.
 let listaConvidados = ['kevin', 'anna', 'lucca', 'sophia'];
@@ -21,13 +21,13 @@ if (pessoa){
 
 //ex.02
 
-//checar itens
+//checar itens.
 
 //listaCompra se refere à lista de compras.
 let listaCompra = ["danone", "pipoca", "suco", "shampoo", "sabonete", "escova"];
 
 //criei uma variável usando o includes para facilitar a exibição no if, se alguém quiser saber se o item está ou não na lista, basta a pessoa trocar o item que esta entre parenteses para algum outro, depois disso vai exibir se o item está ou não na lista.
-let item = listaCompra.includes('manga');
+let item = listaCompra.includes('carro');
 
 console.log("-----LISTA DE COMPRAS-----");
 
