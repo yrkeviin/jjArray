@@ -30,3 +30,5 @@ let address = houses.lastIndexOf('casa do mico');
 
 //exibiu o "endereço da casa"
 console.log('O endereço dessa casa é o número', address);
+
+//O método lastIndexOf() retorna a posição em que o elemento está dentro do array, se o elemento não estiver presente ele retorna -1.
