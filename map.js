@@ -11,6 +11,8 @@ let multNumeros = numeros.map((numeros) => numeros * 3);
 //depois dele percorrer o array e multiplicar todos os números, ele exibe em um só array os números multiplicados, e em outros casos, exibiria de acordo com a função que foi pedida que ele fizesse.
 console.log(multNumeros);
 
+//ex. 02
+
 //números que vão ser divididos por 2
 let outrosNumeros = [20, 200, 2000];
 
