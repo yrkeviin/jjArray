@@ -13,7 +13,7 @@ console.log(multNumeros);
 
 //ex. 02
 
-//números que vão ser divididos por 2
+//números que vão ser divididos por 2.
 let outrosNumeros = [20, 200, 2000];
 
 //nessa let atribuí a função de divisão, todos os números da let outrosNumeros por 2.
